@@ -15,10 +15,6 @@ I'm augusto foss silva, a full stack developer based in curitiba. Welcome to my 
 - Email: augustfs9@gmail.com
 - LinkedIn: https://www.linkedin.com/in/augusto-foss-silva-6053491ba/
 
-## 👀 Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=augusto-fs&show_icons=true)
-
 ## 📝 For more projects my
 
 - [->](link): https://github.com/augustofosssilva
