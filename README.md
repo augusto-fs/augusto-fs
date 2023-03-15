@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**augusto-fs/augusto-fs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm augusto foss silva, a full stack developer based in curitiba. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔭 Current projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Project SX]: Development of the SX framework, which is a management and operation system for unplanned processes, aimed at exploratory, complex and flexible projects. The SX proposal is aimed at companies that seek customization, optimization and better control of their business by using the easy and fast software developed by the company Fluxo.
+
+## 🌱 What I'm learning
+
+- [Technology 1]: ChatGPT
+- [Technology 2]: Advanced github
+
+## 📫 How to reach me
+
+- Email: augustfs9@gmail.com
+- LinkedIn: https://www.linkedin.com/in/augusto-foss-silva-6053491ba/
+
+## 👀 Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=augusto-fs&show_icons=true)
+
+## 📝 Latest blog posts
+
+- [For more project my](link): https://github.com/augustofosssilva
