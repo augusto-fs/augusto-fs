@@ -8,7 +8,7 @@ I'm augusto foss silva, a full stack developer based in curitiba. Welcome to my 
 
 ## 🌱 What I'm learning
 
-- [Technologies]: chatGPT,Advanced github.
+- [Technologies]: chatGPT,Advanced github,Devops
 
 ## 📫 How to reach me
 
