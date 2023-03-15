@@ -20,6 +20,6 @@ I'm augusto foss silva, a full stack developer based in curitiba. Welcome to my 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=augusto-fs&show_icons=true)
 
-## 📝 Latest blog posts
+## 📝 For more projects my
 
-- [For more project my](link): https://github.com/augustofosssilva
+- [->](link): https://github.com/augustofosssilva
